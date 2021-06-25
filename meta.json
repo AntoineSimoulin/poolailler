@@ -3,5 +3,5 @@
   "ticker": "POULE",
   "description": "Poolailler, a highly reliable, energy efficient stake pool",
   "homepage": "https://poolailler.xyz",
-  "extended":"URL to extended meta"
+  "extended":"https://raw.githubusercontent.com/AntoineSimoulin/poolailler/main/extended.json"
 }
