@@ -1,1 +1,7 @@
-{"name":"Poolailler","ticker":"POULE","description":"Poolailler, a highly reliable, energy efficient stake pool","homepage":"https://poolailler.xyz","nonce":"1616696348"}
+{
+  "name": "Poolailler",
+  "ticker": "POULE",
+  "description": "Poolailler, a highly reliable, energy efficient stake pool",
+  "homepage": "https://poolailler.xyz",
+  "extended":"URL to extended meta"
+}
