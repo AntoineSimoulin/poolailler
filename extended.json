@@ -2,11 +2,10 @@
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
         "social": {
-            "twitter_handle": "antoine ?",
-            "telegram_handle": "jarrive pas a trouver le handle du groupe que tas cree"
+            "telegram_handle": "https://t.me/joinchat/EaOdcTOX8qRmYzA0"
         },
         "about": {
-            "me": "Operated by two French enthusiasts, ..."
+            "me": "Operated by two French passionate about technology."
 			"server": "Focused on redundancy, we operate 4 independent servers, with the block producer on RAID1 SSDs",
         },
 		"my-pool-ids": {
