@@ -6,7 +6,7 @@
         },
         "about": {
             "me": "Operated by two French passionate about technology. We have deep expertise in complex server infrastructures.",
-	    "server": "Focused on redundancy, we operate 4 independent servers, with the block producer on RAID1 SSDs.",
+	    "server": "Focused on redundancy, we operate 4 independent servers, with the block producer on RAID1 SSDs."
         },
 		"my-pool-ids": {
 		"0": "15e94d5b8ab9ff7e7eaa0479a1bb7209bdca5f29ff7af1cf98d6c176"
